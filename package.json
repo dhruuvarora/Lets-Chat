@@ -1,17 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "chat-app",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-    "start": "npm run start --prefix backend"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-=======
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -48,5 +35,4 @@
     "tailwindcss": "^3.4.15",
     "vite": "^5.4.10"
   }
->>>>>>> b08cd700a29320e46208a799c0d4ca2d5b7bef0e
 }
